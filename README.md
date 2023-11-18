@@ -1,4 +1,4 @@
-# Tennisball Smart Contract Readme
+# Tennisball Smart Contract
 
 ## Overview
 
@@ -60,10 +60,8 @@ This contract serves as a moderate example for managing tennis ball inventory wi
 
 ## Contact Information
 
-For inquiries or feedback, please contact the maintainer:
+Lakkineni Shashi Preetham
+
+apashyamkirikiri4321@gmail.com
 
 
-[Your Email
-[Your GitHub Profile]
-
-Happy coding!
